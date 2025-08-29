@@ -3,7 +3,6 @@ package learnassignmentweek2;
 public class EdgeBrowser {
 	
 	
-	
 
 	public static void main(String[] args) 
 	{
